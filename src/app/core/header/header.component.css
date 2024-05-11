@@ -1,0 +1,8 @@
+/* Active link styles */
+.active {
+    color: #4A90E2; /* Bright blue for active links */
+    font-weight: bold; /* Makes active link bold */
+    background-color: #333333; /* Slightly darker background for active link */
+    padding: 5px 10px; /* Optional: adds padding for a "button-like" appearance */
+    border-radius: 5px; /* Optional: rounds the corners if background is used */
+}
